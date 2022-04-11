@@ -52,7 +52,7 @@
 
 **Step 1: Create or find the file you want to send to the server** _(in this case we will be sending a java file named Whereami)_
 
-**Step 2: In a terminal not logged intp the remote server use scp to send the file followed by what account you wish to send it to**
+**Step 2: In a terminal not logged into the remote server use scp to send the file followed by what account you wish to send it to**
 
 ![](pictures/scp.png)
 
@@ -60,7 +60,17 @@
 
 ## Setting an SSH Key
 
+**Step 1: type ssh-keygen into your terminal that is not logged into the server and press enter to leave the space empty when prompted to enter paraphrase and which file you want to save it in**
 
+![](pictures/key.png)
+
+**Step 2: log into the ssh and add an ssh to your files with the command mkdir .ssh that is where the password will be stored**
+
+**Step 3: now use scp to send the file where the key that was generated was stored to your account, followed by :~/.ssh/authorized_keys**
+
+![](pictures/wow.png)
+
+## Optimizing Remote Runnig 
 
 
 
