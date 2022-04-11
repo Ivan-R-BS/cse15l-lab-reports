@@ -34,6 +34,34 @@
 
 ![](pictures/status.png)
 
+##  Trying Some Commands 
+
+**Command 1: ls which lists files**
+
+![](pictures/ls.png)
+
+**Command 2: finger shows people who used the server**
+
+![](pictures/finger.png)
+
+**Command 3: exit to logout**
+
+![](pictures/exit.png)
+
+##  Moving Files with scp
+
+**Step 1: Create or find the file you want to send to the server** _(in this case we will be sending a java file named Whereami)_
+
+**Step 2: In a terminal not logged intp the remote server use scp to send the file followed by what account you wish to send it to**
+
+![](pictures/scp.png)
+
+**Step 3: Enter you password when prompted to and it should be complete** _Note if you have set up your ssh key you will not have to enter you password to log in or send files_
+
+## Setting an SSH Key
+
+
+
 
 
 
