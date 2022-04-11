@@ -68,7 +68,7 @@
 
 **Step 3: now use scp to send the file where the key that was generated was stored to your account, followed by :~/.ssh/authorized_keys**
 
-![](pictures/wow.png)
+
 
 ## Optimizing Remote Runnig 
 
