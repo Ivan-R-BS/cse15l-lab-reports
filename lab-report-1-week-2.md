@@ -72,6 +72,14 @@
 
 ## Optimizing Remote Runnig 
 
+**In this example we will be making a change to WhereAmI.java and sending it to the server**
+
+**Step 1: Make changes on file**
+
+**Step 2: use javac on file and java then send and run on server using shortcuts like in the picture to do it all in one go**
+
+
+![](pictures/last.png)
 
 
 
