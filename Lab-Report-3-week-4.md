@@ -23,7 +23,7 @@
 *click link to see the file that caused this error*
 
 
-[Error1](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test2.md)
+[Error2](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test2.md)
 
 ## Symptom 
 
