@@ -7,7 +7,7 @@
 *click link to see the file that caused this error*
 
 
-[Error1](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test.md)
+[failure-inducing input 1](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test.md)
 
 ## Symptom 
 
@@ -23,11 +23,26 @@
 *click link to see the file that caused this error*
 
 
-[Error2](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test2.md)
+[failure-inducing input 2](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test2.md)
 
 ## Symptom 
 
 ![](pictures/error2.png)
 
-*The bug was that the code would add a .png file when it was only suppossed to be collecting links This resulted in the symptom whenever a file with a .png image would have it added to the arraylist that was meant for links.Fixed by adding an if that checks whether or not what is in the parenthesis includes .jpg and if it does it will not add it.*
+*The bug was that the code would add a .png file when it was only suppossed to be collecting links This resulted in the symptom whenever a file with a .png image would have it added to the arraylist that was meant for links.Fixed by adding an if that checks whether or not what is in the parenthesis includes .png and if it does it will not add it.*
+
+##  Code change 3
+![](pictures/4.png)
+
+
+*click link to see the file that caused this error*
+
+
+[failure-inducing input 3](https://github.com/Ivan-R-BS/markdown-parser/edit/main/test3.md)
+
+## Symptom 
+
+![](pictures/error3.png)
+
+*The bug was that the code would add a .jpg file when it was only suppossed to be collecting links This resulted in the symptom whenever a file with a .jpg image would have it added to the arraylist that was meant for links.Fixed by adding an if that checks whether or not what is in the parenthesis includes .jpg and if it does it will not add it.*
 
