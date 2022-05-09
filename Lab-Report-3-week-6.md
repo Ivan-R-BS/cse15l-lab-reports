@@ -39,3 +39,12 @@
 **To copy whole directories just access the directory in the terminal then do the following command**
 
 ![](pictures/scp-r2.png)
+
+**to run it use the javac and java from lab 4 for linux**
+
+![](pictures/runy.png)
+(My ieng6 terminal is glitching and cant run java for some reason which is why there isnt a picture)
+
+**Shortcut to scp and run it all**
+
+![](pictures/shorty.png)
