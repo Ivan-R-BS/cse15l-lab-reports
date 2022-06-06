@@ -1,6 +1,6 @@
 #  Lab Report Three  
 
-**I used Vimdiff in order to find the difference between the parser's output then I looked through it manually to find the where the outputs differed**
+**I used Vimdiff in order to find the difference between the parser's output then I looked through it manually to find the where the outputs differed for**
 [test file 1](https://github.com/nidhidhamnani/markdown-parser/edit/main/test-files/481.md)**and** [test file 2](https://github.com/nidhidhamnani/markdown-parser/edit/main/test-files/495.md)
 
 ## Results for test File 1
@@ -13,4 +13,4 @@
 
 ## Why my parser failed on the second test file
 
-**The reason my parser got it wrong was because it incorrectly found the first closed parenthesis and took it as the last one, which is where it cut it off. It then used that to create the substring to add to the result, which is why it returned [foo(and(bar] instead of [foo(and(bar))] The error liew within ![](pic/8.png)**
+**The reason my parser got it wrong was because it incorrectly found the first closed parenthesis and took it as the last one, which is where it cut it off. It then used that to create the substring to add to the result, which is why it returned [foo(and(bar] instead of [foo(and(bar))] The error lies within ![](pic/8.png)**
