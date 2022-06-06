@@ -7,5 +7,5 @@
 
 [Lab Report 4](https://ivan-r-bs.github.io/cse15l-lab-reports/Lab-Report-4-week-8.html)
 
-[Lab Report 5](https://ivan-r-bs.github.io/cse15l-lab-reports/Lab-Report-5-week-10.html)
+[Lab Report 5](https://ivan-r-bs.github.io/cse15l-lab-reports/Lab-Report-5-Week-10.html)
 
